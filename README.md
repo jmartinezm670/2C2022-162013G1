@@ -6,6 +6,8 @@ Universidad Latinoamericana de Ciencia y Tecnología
 ULACIT
 2022
 
+
+
 ## arch
 mostrar la arquitectura de la máquina (1).
 
@@ -64,3 +66,8 @@ colocar (declarar, ajustar) fecha y hora.
 
 ## clock -w
 guardar los cambios de fecha en la BIOS.
+
+
+
+# Comandos Docker
+
