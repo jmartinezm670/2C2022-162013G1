@@ -222,38 +222,38 @@ busca ficheros con extensión ‘.rpm’ y modificar permisos.
 
 # Comandos Docker
 
-## build	
+## 1- build	
 Construir una imagen a partir de un Dockerfile
 
-## history	
+## 2- history	
 Mostrar el historial de una imagen
 
-## import	
+## 3- import	
 Importar el contenido de una tarball para crear una imagen del sistema de archivos
 
-## inspect
+## 4- inspect
 Mostrar información detallada sobre una o más imágenes
 
-## load
+## 5- load
 Cargar una imagen de un archivo tar o STDIN
 
-## ls	
+## 6- ls	
 Listar imágenes
 
-## prune	
+## 7- prune	
 Eliminar imágenes no utilizadas
 
-## pull	
+## 8- pull	
 Extraer una imagen o un repositorio de un registro
 
-## push	
+## 9- push	
 Empujar una imagen o un repositorio a un registro
 
-## rm	
+## 10- rm	
 Eliminar una o más imágenes
 
-## save	
+## 11- save	
 Guardar una o más imágenes en un archivo tar 
 
-## tag	
+## 12- tag	
 Cree una etiqueta TARGET_IMAGE que haga referencia a SOURCE_IMAGE
